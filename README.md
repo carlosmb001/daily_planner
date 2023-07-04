@@ -6,7 +6,8 @@ Work Day Scheduler is a simple calendar application that allows users to save ev
 
 The application is built using HTML, CSS, and JavaScript, and it utilizes the Day.js library for working with dates and times in the browser.
 
-
+I learned how to use JQuery, and realized that I would rather use regular javascript instead.
+Also learned a bit more about working withing a branch instead of in the main branch.
 
 ## Features
 
@@ -29,10 +30,10 @@ Click into a timeblock to enter an event or task.
 After entering the event, click the save button to store it in local storage.
 You can enter and save events for multiple timeblocks.
 When you refresh the page, the saved events will still be visible.
-
+![Planner screenshot](Assets/planner-app.png)
 ## Installation
 N/A
-[Deployed Website]()
+[Deployed Website](https://carlosmb001.github.io/daily_planner/)
 
 ## Credits
 This website was created by Carlos.
